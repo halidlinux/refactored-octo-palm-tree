@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:24,DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:24,TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:24,TRT 4K
+https://live-cdn-65984.varplaycdn.cfd/trt4k/index.m3u8
 #EXTINF:24,360 TV HD
 https://live-cdn-65984.varplaycdn.cfd/360/index.m3u8
 #EXTINF:28,Beinsports 1 HD
@@ -109,6 +115,20 @@ https://live-cdn-65984.varplaycdn.cfd/sinematv2/index.m3u8
 https://live-cdn-65984.varplaycdn.cfd/sozcu/index.m3u8
 #EXTINF:0,startv
 https://live-cdn-65984.varplaycdn.cfd/startv/index.m3u8
+#EXTINF:0,tabii
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:0,tabii2
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:0,tabii3
+https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:0,tabii4
+https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:0,tabii5
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:0,tabii6
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:0,tabii7
+https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:0,tabii
 https://live-cdn-65984.varplaycdn.cfd/tabii/index.m3u8
 #EXTINF:0,tabii1
