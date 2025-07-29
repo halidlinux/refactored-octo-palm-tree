@@ -53,7 +53,7 @@ https://tv.arectv34.sbs/live/bsfamily.m3u8
 https://tv.arectv34.sbs/live/bspremier1.m3u8
 #EXTINF:23,beIN MOVIES STARS
 https://tv.arectv34.sbs/live/bsstars.m3u8
-#EXTINF:23,beIN MOVIES T RK
+#EXTINF:23,beIN MOVIES TÜRK
 https://tv.arectv34.sbs/live/bsturk.m3u8
 #EXTINF:23,beIN MOVIES TURK HD
 https://live-cdn-65984.varplaycdn.cfd/bmturk/index.m3u8
@@ -161,7 +161,7 @@ https://live-cdn-65984.varplaycdn.cfd/kanald/index.m3u8
 https://dijit.al/betconnectproxy
 #EXTINF:0,KRT TV
 https://ottcdn.kablowebtv.net/live_turksat_sub3/krttv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDI1IDk6MjI6MTcgUE0maGFzaF92YWx1ZT1CcW1SNEtMd2FoOHl5Y3ZYR0JSTHhBPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC.6
-#EXTINF:0,LALEG L TV
+#EXTINF:0,LALEGÜL TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:0,LANGLAB
 https://ottcdn.kablowebtv.net/live_turksat_sub3/langlab_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDI1IDk6MjI6MTcgUE0maGFzaF92YWx1ZT1CcW1SNEtMd2FoOHl5Y3ZYR0JSTHhBPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC.6
@@ -179,7 +179,7 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/minikago_stream/index.m3u8?wmsAu
 https://ottcdn.kablowebtv.net/live_turksat_sub3/minikacocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDI1IDk6MjI6MTcgUE0maGFzaF92YWx1ZT1CcW1SNEtMd2FoOHl5Y3ZYR0JSTHhBPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC.6
 #EXTINF:0,MOONBUG
 https://ottcdn.kablowebtv.net/live_turksat_sub3/moonbugkids_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDI1IDk6MjI6MTcgUE0maGFzaF_2YWx1ZT1CcW1SNEtMd2FoOHl5Y3ZYR0JSTHhBPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC.6
-#EXTINF:23,MOVIESMART T RK
+#EXTINF:23,MOVIESMART TÜRK
 https://tv.arectv34.sbs/live/mvturk.m3u8
 #EXTINF:21,NAT GEO
 https://live-cdn-65984.varplaycdn.cfd/natgeo/index.m3u8
@@ -265,7 +265,7 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/spacetoon_stream/index.m3u8?wmsA
 https://live-cdn-65984.varplaycdn.cfd/sportklub/index.m3u8
 #EXTINF:0,STAR TV HD
 https://live-cdn-65984.varplaycdn.cfd/startv/index.m3u8
-#EXTINF:0,S ZC  TV HD
+#EXTINF:0,SÖZCÜ  TV HD
 https://live-cdn-65984.varplaycdn.cfd/sozcu/index.m3u8
 #EXTINF:0,TABII
 https://live-cdn-65984.varplaycdn.cfd/tabii/index.m3u8
@@ -311,7 +311,7 @@ https://live-cdn-65984.varplaycdn.cfd/teve2/index.m3u8
 https://live-cdn-65984.varplaycdn.cfd/tgrteu/index.m3u8
 #EXTINF:0,TGRT HABER HD
 https://live-cdn-65984.varplaycdn.cfd/tgrthaber/index.m3u8
-#EXTINF:0,TH T RK HABER
+#EXTINF:0,TH TÜRK HABER
 https://ottcdn.kablowebtv.net/live_turksat_sub3/thturkhaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDI1IDk6MjI6MTcgUE0maGFzaF_2YWx1ZT1CcW1SNEtMd2FoOHl5Y3ZYR0JSTHhBPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC.6
 #EXTINF:0,TINYTEEN
 https://ottcdn.kablowebtv.net/live_turksat_sub3/tinyteen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDI1IDk6MjI6MTcgUE0maGFzaF_2YWx1ZT1CcW1SNEtMd2FoOHl5Y3ZYR0JSTHhBPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC.6
@@ -351,7 +351,7 @@ https://live-cdn-65984.varplaycdn.cfd/trt4k/index.m3u8
 https://live-cdn-65984.varplaycdn.cfd/trt4fhd/index.m3u8
 #EXTINF:0,TRT BELGESEL HD
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
-#EXTINF:0,TRT DIYANET  OCUK
+#EXTINF:0,TRT DIYANET ÇOCUK
 https://ottcdn.kablowebtv.net/live_turksat_sub3/trtdiyanetcocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDI1IDk6MjI6MTcgUE0maGFzaF_2YWx1ZT1CcW1SNEtMd2FoOHl5Y3ZYR0JSTHhBPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC.6
 #EXTINF:0,TRT EBA TV
 https://ottcdn.kablowebtv.net/live_turksat_sub3/trteba_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDI1IDk6MjI6MTcgUE0maGFzaF_2YWx1ZT1CcW1SNEtMd2FoOHl5Y3ZYR0JSTHhBPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC.6
@@ -361,7 +361,7 @@ https://live-cdn-65984.varplaycdn.cfd/trthaber/index.m3u8
 https://live-cdn-65984.varplaycdn.cfd/trtspor/index.m3u8
 #EXTINF:0,TRT SPOR YILDIZ HD
 https://live-cdn-65984.varplaycdn.cfd/trtspor2/index.m3u8
-#EXTINF:0,TRT  OCUK
+#EXTINF:0,TRT ÇOCUK
 https://ottcdn.kablowebtv.net/live_turksat_sub3/trtcocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDI1IDk6MjI6MTcgUE0maGFzaF_2YWx1ZT1CcW1SNEtMd2FoOHl5Y3ZYR0JSTHhBPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC.6
 #EXTINF:0,TRT-3 SPOR HD
 https://live-cdn-65984.varplaycdn.cfd/trt3spor/index.m3u8
