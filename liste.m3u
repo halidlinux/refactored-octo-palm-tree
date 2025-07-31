@@ -163,22 +163,6 @@ https://live-cdn-65984.varplaycdn.cfd/nickelodeon/index.m3u8
 https://live-cdn-65984.varplaycdn.cfd/nowtv/index.m3u8
 #EXTINF:0,NTV HD
 https://live-cdn-65984.varplaycdn.cfd/ntv/index.m3u8
-#EXTINF:0,NUMBER ONE TV HD
-https://live-cdn-65984.varplaycdn.cfd/nr1/index.m3u8
-#EXTINF:0,NUMBER ONE T RK HD
-https://live-cdn-65984.varplaycdn.cfd/nr1turk/index.m3u8
-#EXTINF:0,POWER DANCE
-http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:0,POWER LOVE HD
-http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:0,POWER TRK HD
-https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
-#EXTINF:0,POWER TRK SLOW HD
-http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:0,POWER TRK TAPTAZE HD
-http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:0,POWER TV HD
-https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
 #EXTINF:0,S SPORT + HD
 https://live-cdn-65984.varplaycdn.cfd/901/index.m3u8
 #EXTINF:0,S SPORT +2 HD
