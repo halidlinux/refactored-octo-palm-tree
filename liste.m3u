@@ -59,34 +59,20 @@ https://live-cdn-65984.varplaycdn.cfd/bs1/index.m3u8
 https://live-cdn-65984.varplaycdn.cfd/bs2/index.m3u8
 #EXTINF:0,beIN SPORTS 1 HD
 https://live-cdn-65984.varplaycdn.cfd/601/index.m3u8
-#EXTINF:0,beIN SPORTS 1 HD (ALTERNATIF)
-https://r0.4928d54d950ee70q17.lat/yayinzirve.m3u8
 #EXTINF:0,beIN SPORTS 2 HD
 https://live-cdn-65984.varplaycdn.cfd/602/index.m3u8
-#EXTINF:0,beIN SPORTS 2 HD (ALTERNATIF)
-https://r0.4928d54d950ee70q17.lat/yayinb2.m3u8
 #EXTINF:0,beIN SPORTS 3 HD
 https://live-cdn-65984.varplaycdn.cfd/603/index.m3u8
-#EXTINF:0,beIN SPORTS 3 HD (ALTERNATIF)
-https://r0.4928d54d950ee70q17.lat/yayinb3.m3u8
 #EXTINF:0,beIN SPORTS 4 HD
 https://live-cdn-65984.varplaycdn.cfd/604/index.m3u8
-#EXTINF:0,beIN SPORTS 4 HD (ALTERNATIF)
-https://r0.4928d54d950ee70q17.lat/yayinb4.m3u8
 #EXTINF:0,beIN SPORTS 5 HD
 https://live-cdn-65984.varplaycdn.cfd/605/index.m3u8
-#EXTINF:0,beIN SPORTS 5 HD (ALTERNATIF)
-https://r0.4928d54d950ee70q17.lat/yayinb5.m3u8
 #EXTINF:0,beIN SPORTS HABER HD
 https://live-cdn-65984.varplaycdn.cfd/beinsportshaber/index.m3u8
 #EXTINF:0,beIN SPORTS MAX 1 HD
 https://live-cdn-65984.varplaycdn.cfd/801/index.m3u8
-#EXTINF:0,beIN SPORTS MAX 1 HD (ALTERNATIF)
-https://r0.4928d54d950ee70q17.lat/yayinbm1.m3u8
 #EXTINF:0,beIN SPORTS MAX 2 HD
 https://live-cdn-65984.varplaycdn.cfd/802/index.m3u8
-#EXTINF:0,beIN SPORTS MAX 2 HD (ALTERNATIF)
-https://r0.4928d54d950ee70q17.lat/yayinbm2.m3u8
 #EXTINF:0,BEYAZ TV HD
 https://live-cdn-65984.varplaycdn.cfd/beyaztv/index.m3u8
 #EXTINF:0,BLOOMBERG HT
@@ -217,12 +203,8 @@ https://live-cdn-65984.varplaycdn.cfd/904/index.m3u8
 https://live-cdn-65984.varplaycdn.cfd/905/index.m3u8
 #EXTINF:0,S SPORT 2 HD
 https://live-cdn-65984.varplaycdn.cfd/608/index.m3u8
-#EXTINF:0,S SPORT 2 HD (ALTERNATIF)
-https://r0.4928d54d950ee70q17.lat/yayinss2.m3u8
 #EXTINF:0,S SPORT HD
 https://live-cdn-65984.varplaycdn.cfd/607/index.m3u8
-#EXTINF:0,S SPORT HD (ALTERNATIF)
-https://r0.4928d54d950ee70q17.lat/yayinss.m3u8
 #EXTINF:0,SHOW MAX HD
 https://live-cdn-65984.varplaycdn.cfd/showmax/index.m3u8
 #EXTINF:0,SHOW TV HD
@@ -244,7 +226,7 @@ https://live-cdn-65984.varplaycdn.cfd/sinemaaksiyon2/index.m3u8
 #EXTINF:0,SINEMA KOMEDI
 https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemakomedi_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDI1IDY6MzY6MjIgUE0maGFzaF92YWx1ZT1FbXlCWCtYRE1nOHdoMVY0Zkk2SjB3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 #EXTINF:0,SINEMA TV
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinematv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDI1IDY6MzY6MjIgUE0maGFzaF92YWx1ZT1FbXlCWCtYRE1nOHdoMVY0Zkk2SjB3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinematv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDI1IDY6MzY6MjIgUE0maGFzaF_2YWx1ZT1FbXlCWCtYRE1nOHdoMVY0Zkk2SjB3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 #EXTINF:0,SINEMA TV 2
 https://live-cdn-65984.varplaycdn.cfd/sinematv2/index.m3u8
 #EXTINF:0,SINEMA YERLI
@@ -261,7 +243,7 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/spacetoon_stream/index.m3u8?wmsA
 https://live-cdn-65984.varplaycdn.cfd/sportklub/index.m3u8
 #EXTINF:0,STAR TV HD
 https://live-cdn-65984.varplaycdn.cfd/startv/index.m3u8
-#EXTINF:0,SÖZCÜ  TV HD
+#EXTINF:0,SÖZCÜ TV HD
 https://live-cdn-65984.varplaycdn.cfd/sozcu/index.m3u8
 #EXTINF:0,TABII
 https://live-cdn-65984.varplaycdn.cfd/tabii/index.m3u8
@@ -313,20 +295,12 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/thturkhaber_stream/index.m3u8?wm
 https://ottcdn.kablowebtv.net/live_turksat_sub3/tinyteen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDI1IDY6MzY6MjIgUE0maGFzaF92YWx1ZT1FbXlCWCtYRE1nOHdoMVY0Zkk2SjB3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41
 #EXTINF:24,TIVIBU SPOR 1 HD
 https://live-cdn-65984.varplaycdn.cfd/701/index.m3u8
-#EXTINF:24,TIVIBU SPOR 1 HD (ALTERNATIF)
-https://r0.4928d54d950ee70q17.lat/yayint1.m3u8
 #EXTINF:24,TIVIBU SPOR 2 HD
 https://live-cdn-65984.varplaycdn.cfd/702/index.m3u8
-#EXTINF:24,TIVIBU SPOR 2 HD (ALTERNATIF)
-https://r0.4928d54d950ee70q17.lat/yayint2.m3u8
 #EXTINF:24,TIVIBU SPOR 3 HD
 https://live-cdn-65984.varplaycdn.cfd/703/index.m3u8
-#EXTINF:24,TIVIBU SPOR 3 HD (ALTERNATIF)
-https://r0.4928d54d950ee70q17.lat/yayint3.m3u8
 #EXTINF:24,TIVIBU SPOR 4 HD
 https://live-cdn-65984.varplaycdn.cfd/704/index.m3u8
-#EXTINF:24,TIVIBU SPOR 4 HD (ALTERNATIF)
-https://r0.4928d54d950ee70q17.lat/yayint4.m3u8
 #EXTINF:0,TJK 2 TV HD
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 #EXTINF:0,TJK TV HD
