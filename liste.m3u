@@ -218,11 +218,11 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/russia24_stream/index.m3u8?wmsAu
 #EXTINF:0,S SPORT
 https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgNjowOToyNCBQTSZoYXNoX3ZhbHVlPXdXeDUyVGkzWHpUSmp5cGorSStoUkE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU==
 #EXTINF:0,S SPORT HD (ALTERNATIF 1)
-https://live-cdn-65984.varplaycdn.cfd/607/index.m3u8
+https://bs.arectv33.sbs/static/ss11.m3u8
 #EXTINF:0,S SPORT 2
 https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgNjowOToyNCBQTSZoYXNoX3ZhbHVlPXdXeDUyVGkzWHpUSmp5cGorSStoUkE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU==
 #EXTINF:0,S SPORT 2 HD (ALTERNATIF 1)
-https://live-cdn-65984.varplaycdn.cfd/608/index.m3u8
+https://bs.arectv33.sbs/static/ss2.m3u8
 #EXTINF:0,S SPORT + HD
 https://live-cdn-65984.varplaycdn.cfd/901/index.m3u8
 #EXTINF:0,S SPORT +2 HD
