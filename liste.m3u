@@ -36,8 +36,6 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/azoomee_stream/index.m3u8?wmsAut
 #EXTINF:0,BABY TV
 https://ottcdn.kablowebtv.net/live_turksat_sub3/babytv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI1IDM6NDA6MTAgQU0maGFzaF92YWx1ZT1CbkFibTBCcVVVbUgzOXJ2SE9IUEdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y=
 #EXTINF:0,beIN SPORTS 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv523.com/
 https://four.zirvestream5.cfd/yayinzirve.m3u8
 #EXTINF:0,beIN SPORTS 2 HD
 https://bs.arectv33.sbs/static/bs2.m3u8
@@ -237,21 +235,22 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/startv_stream/index.m3u8?wmsAuth
 https://ottcdn.kablowebtv.net/live_turksat_sub3/szctv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI1IDM6NDA6MTAgQU0maGFzaF92YWx1ZT1CbkFibTBCcVVVbUgzOXJ2SE9IUEdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y=
 #EXTINF:0,TURKMENELI TV
 https://ottcdn.kablowebtv.net/live_turksat_sub3/turkmenelitv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI1IDM6NDA6MTAgQU0maGFzaF92YWx1ZT1CbkFibTBCcVVVbUgzOXJ2SE9IUEdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y=
-#EXTINF:0,TABII (ALTERNATIF 1)
-https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:0,TABII 2 (ALTERNATIF)
-https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:0,TABII 3 (ALTERNATIF)
-https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:0,TABII 4 (ALTERNATIF)
-https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:0,TABII 5 (ALTERNATIF)
-https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:0,TABII 6 (ALTERNATIF)
-https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:0,TABII 7
-https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:0,TARIH TV
+#EXTINF:-1,Tabii Spor
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8?title=Tabii%20Spor
+#EXTINF:-1,Tabii Spor 1
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8?title=Tabii%20Spor%202
+#EXTINF:-1,Tabii Spor 2
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8?title=Tabii%20Spor%202
+#EXTINF:-1,Tabii Spor 3
+https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8?title=Tabii%20Spor%203
+#EXTINF:-1,Tabii Spor 4
+https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8?title=Tabii%20Spor%204
+#EXTINF:-1,Tabii Spor 5
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8?title=Tabii%20Spor%205
+#EXTINF:-1,Tabii Spor 6
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8?title=Tabii%20Spor%206
+#EXTINF:-1,Tabii Spor 7
+https://rxnE77JupTdEYKE3TytvGQWYh.medya.trt.com.tr/master.m3u8?title=Tabii%20Spor%207#EXTINF:0,TARIH TV
 https://ottcdn.kablowebtv.net/live_turksat_sub3/tarihtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI1IDM6NDA6MTAgQU0maGFzaF92YWx1ZT1CbkFibTBCcVVVbUgzOXJ2SE9IUEdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y=
 #EXTINF:0,TAY TV HD
 https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
