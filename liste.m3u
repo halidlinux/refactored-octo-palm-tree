@@ -43,8 +43,18 @@ https://bs.arectv33.sbs/static/bs2.m3u8
 https://bs.arectv33.sbs/static/bs3.m3u8
 #EXTINF:0,beIN SPORTS 4 HD
 https://bs.arectv33.sbs/static/bs4.m3u8
-#EXTINF:0,beIN SPORTS 5 HD
-https://bs.arectv33.sbs/static/bs5.m3u8
+#EXTINF:-1,beIN SPORTS 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com/
+https://four.zirvestream5.cfd/yayinb5.m3u8
+#EXTINF:-1,beIN SPORTS MAX 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com/
+https://four.zirvestream5.cfd/yayinbm1.m3u8
+#EXTINF:-1,beIN SPORTS MAX 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com/
+https://four.zirvestream5.cfd/yayinbm2.m3u8
 #EXTINF:0,beIN SPORTS HABER
 https://ottcdn.kablowebtv.net/live_turksat_sub3/beinsportshaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI1IDM6NDA6MTAgQU0maGFzaF92YWx1ZT1CbkFibTBCcVVVbUgzOXJ2SE9IUEdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y=
 #EXTINF:0,beIN SPORTS MAX 1 HD
@@ -203,12 +213,52 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/rtrplaneta_stream/index.m3u8?wms
 https://ottcdn.kablowebtv.net/live_turksat_sub3/russia24_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI1IDM6NDA6MTAgQU0maGFzaF92YWx1ZT1CbkFibTBCcVVVbUgzOXJ2SE9IUEdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y=
 #EXTINF:0,S SPORT
 https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI1IDM6NDA6MTAgQU0maGFzaF92YWx1ZT1CbkFibTBCcVVVbUgzOXJ2SE9IUEdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y=
-#EXTINF:0,S SPORT HD (ALTERNATIF 1)
-https://bs.arectv33.sbs/static/ss11.m3u8
 #EXTINF:0,S SPORT 2
 https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI1IDM6NDA6MTAgQU0maGFzaF92YWx1ZT1CbkFibTBCcVVVbUgzOXJ2SE9IUEdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y=
-#EXTINF:0,S SPORT 2 HD (ALTERNATIF 1)
-https://bs.arectv33.sbs/static/ss2.m3u8
+#EXTINF:-1, S Sport +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com/
+https://four.zirvestream5.cfd/yayinex3.m3u8
+#EXTINF:-1,S SPORT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com/
+https://four.zirvestream5.cfd/yayinss.m3u8
+#EXTINF:-1,S SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com/
+https://four.zirvestream5.cfd/yayinss2.m3u8
+#EXTINF:-1 tvg-id="exxenspor" tvg-name="Exxen Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="ExxenSpor",Exxen Spor 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com/
+https://four.zirvestream5.cfd/yayinex1.m3u8
+#EXTINF:-1 tvg-id="exxenspor" tvg-name="Exxen Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="ExxenSpor",Exxen Spor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com/
+https://four.zirvestream5.cfd/yayinex2.m3u8
+#EXTINF:-1 tvg-id="exxenspor" tvg-name="Exxen Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="ExxenSpor",Exxen Spor 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com/
+https://four.zirvestream5.cfd/yayinex3.m3u8
+#EXTINF:-1 tvg-id="exxenspor" tvg-name="Exxen Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="ExxenSpor",Exxen Spor 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com/
+https://four.zirvestream5.cfd/yayinex4.m3u8
+#EXTINF:-1 tvg-id="exxenspor" tvg-name="Exxen Spor 5" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="ExxenSpor",Exxen Spor 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com/
+https://four.zirvestream5.cfd/yayinex5.m3u8
+#EXTINF:-1 tvg-id="exxenspor" tvg-name="Exxen Spor 6" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="ExxenSpor",Exxen Spor 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com/
+https://four.zirvestream5.cfd/yayinex6.m3u8
+#EXTINF:-1 tvg-id="exxenspor" tvg-name="Exxen Spor 7" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="ExxenSpor",Exxen Spor 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com/
+https://four.zirvestream5.cfd/yayinex7.m3u8
+#EXTINF:-1 tvg-id="exxenspor" tvg-name="Exxen Spor 8" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="ExxenSpor",Exxen Spor 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com/
+https://four.zirvestream5.cfd/yayinex8.m3u8
 #EXTINF:0,SAUDI TV
 https://ottcdn.kablowebtv.net/live_turksat_sub3/sauditv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI1IDM6NDA6MTAgQU0maGFzaF92YWx1ZT1CbkFibTBCcVVVbUgzOXJ2SE9IUEdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y=
 #EXTINF:0,SHOW TV
@@ -268,6 +318,18 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/thturkhaber_stream/index.m3u8?wm
 https://ottcdn.kablowebtv.net/live_turksat_sub3/tinyteen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI1IDM6NDA6MTAgQU0maGFzaF92YWx1ZT1CbkFibTBCcVVVbUgzOXJ2SE9IUEdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y=
 #EXTINF:0,Tivi 6
 https://ottcdn.kablowebtv.net/live_turksat_sub3/tivi6_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI1IDM6NDA6MTAgQU0maGFzaF92YWx1ZT1CbkFibTBCcVVVbUgzOXJ2SE9IUEdnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4y=
+#EXTINF:-1,TIVIBU SPOR 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com/
+https://four.zirvestream5.cfd/yayint1.m3u8
+#EXTINF:-1,TIVIBU SPOR 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com/
+https://four.zirvestream5.cfd/yayint2.m3u8
+#EXTINF:-1,TIVIBU SPOR 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com/
+https://four.zirvestream5.cfd/yayint3.m3u8
 #EXTINF:0,TJK 2 TV HD
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 #EXTINF:0,TJK TV HD
