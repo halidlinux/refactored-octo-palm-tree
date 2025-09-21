@@ -40,7 +40,7 @@ https://one.3ffcd2ea10adef4f.click/live/sbeinsports-4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-origin=https://main.uxsyplayereb36dee9dd.click
 https://one.3ffcd2ea10adef4f.click/live/sbeinsports-5/playlist.m3u8
-#EXTINF:-1,Benguturk TV
+#EXTINF:-1,Bengütürk TV
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1,Beyaz TV
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
@@ -100,7 +100,7 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
 #EXTINF:-1,Kral Pop
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1,Lalegul TV
+#EXTINF:-1,Lalegül TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1,MaviKaradeniz
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
@@ -122,7 +122,7 @@ https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv_1080p.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1,Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:-1,Sozcu TV
+#EXTINF:-1,Sözcü TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 #EXTINF:-1,Star
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
@@ -140,7 +140,7 @@ https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1,TR24 TV
 https://tv.ensonhaber.com/tv24/tv24.m3u8
-#EXTINF:-1,Trt 1
+#EXTINF:-1,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1,TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
@@ -174,7 +174,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1,TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1,TYT Turk
+#EXTINF:-1,TYT Türk
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 #EXTINF:-1,TürkHaber
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
