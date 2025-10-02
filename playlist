@@ -141,7 +141,7 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1,TR24 TV
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1,TRT 1
-https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT Avaz
